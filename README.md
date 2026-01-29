@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, I'm Noey  
+## Welcome to my GitHub profile
 ### I'm a Bachelor’s Degree Student (Year 3)  
 🎓 Faculty of Information Technology, KMITL
 
