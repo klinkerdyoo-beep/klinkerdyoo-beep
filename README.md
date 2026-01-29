@@ -1,6 +1,12 @@
 ## Hi there 👋
-** Bachelor’s degree student (Year 3) at KMITL, Faculty of Information Technology**
- I’m interested in UX/UI Design and Full Stack Development.
+### I'm a Bachelor’s Degree Student (Year 3)  
+🎓 Faculty of Information Technology, KMITL
+
+💡 **Interests**
+- UX/UI Design  
+- Full Stack Development
+  
+ I can fit in anywhere and I’m always open to learning. I like to think differently, but I always make sure to get the job done right.
 
 <!--
 **klinkerdyoo-beep/klinkerdyoo-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
