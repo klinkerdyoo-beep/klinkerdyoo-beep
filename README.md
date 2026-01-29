@@ -1,5 +1,6 @@
 ## Hi there 👋
- I’m currently working on UX/UI DESING,FORNT END DEVERLOP
+** Bachelor’s degree student (Year 3) at KMITL, Faculty of Information Technology**
+ I’m interested in UX/UI Design and Full Stack Development.
 
 <!--
 **klinkerdyoo-beep/klinkerdyoo-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
